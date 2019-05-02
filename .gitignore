@@ -1,4 +1,5 @@
 ini.json
 dbinfo.json
 scores.db
-npm/*
+node_modules/
+test.js

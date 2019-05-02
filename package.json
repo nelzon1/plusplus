@@ -1,0 +1,29 @@
+{
+  "name": "plusplus",
+  "version": "1.0.0",
+  "description": "Slack bot to track user points based on another app on Slack",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonfile": "^5.0.0",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelzon1/plusplus.git"
+  },
+  "keywords": [
+    "plusplus",
+    "Slack"
+  ],
+  "author": "Jake Nelson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nelzon1/plusplus/issues"
+  },
+  "homepage": "https://github.com/nelzon1/plusplus#readme"
+}
